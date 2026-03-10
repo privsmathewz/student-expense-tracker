@@ -1,0 +1,4 @@
+pandas>=1.5
+numpy>=1.21
+streamlit>=1.18
+matplotlib>=3.5
